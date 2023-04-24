@@ -1,0 +1,1 @@
+This is a test project for Lab1 where we play around with git[hub]
