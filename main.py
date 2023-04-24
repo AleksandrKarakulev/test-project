@@ -1,6 +1,7 @@
 def main():
     username = input()
-    print(f"Hello {username}!")
+    greeting = f"Hello {username}"
+    fency_output(greeting)
 
 
 def fency_output(line):
