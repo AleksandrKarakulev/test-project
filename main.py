@@ -2,7 +2,7 @@ def main():
     username = input()
     if not check_is_name(username):
         username = fix_name(username)
-    greeting = f"Hello {username}"
+    greeting = f"Hello {username}!"
     fency_output(greeting)
 
 
